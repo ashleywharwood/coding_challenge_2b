@@ -1,0 +1,1 @@
+This is an inventory reorder assistant for a fragrance company. In this coding project, the current stock, demand and target levels were recorded for an item. The inventory assistant then determines whether to reorder, how many units to be ordered and the estimated cost.
