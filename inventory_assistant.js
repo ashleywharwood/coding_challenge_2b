@@ -15,7 +15,7 @@ let estimatedReorderCost = reorderQuantity * unitCost;
 let reorderNow = currentStock <= reorderLevel || weeksOfCover < supplierLeadTimeWeeks;
 
 // Step 3: Print to Console
-console.log("Inventory Reorder Assistant:"
+console.log("Inventory Reorder Assistant:");
 console.log("Iten Name: " + itemName);
 console.log("Weeks of Cover: " + weeksOfCover.toFixed(2));
 console.log("Reorder Now: " + reorderNow);
